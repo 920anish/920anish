@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter app<br>🌱 I’m currently learning JS<br>
+920
 
 
 ## 🌐 Socials:
